@@ -10,8 +10,9 @@ Continuous Material 기법을 통해 Constraint 구현
 
 # Scene
 - scene1
-
+![scene1](https://user-images.githubusercontent.com/86860544/228156938-c8a0127d-5e78-4785-a2a5-c408e8a1b396.gif)
 - scene2
+![scene2](https://user-images.githubusercontent.com/86860544/228156956-75bf644d-7365-47e5-bace-926417c6fce7.gif)
 
 # 참고문헌
  - H. Wang. A chebyshev semi-iterative approach for accelerating projective and position-based dynamics. ACM Trans. Graph., vol. 34, no. 6, pp. 246:1–246:9, Oct. 2015.
